@@ -6,3 +6,5 @@ asdfadfdasf
 
 teestin git kraken!
 русский текст
+asdasd
+sdafsdf
