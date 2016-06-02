@@ -5,4 +5,4 @@ RUN     yum install -y epel-release
 
 COPY . /src/
 
-CMD ["cat", "README.md"]
+CMD ["cat", "/src/README.md"]
