@@ -1,0 +1,16 @@
+{
+  "name": "ai_contester_web",
+  "version": "1.0.0",
+  "description": "Website for AI Contester.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Baydin (2DKot)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
